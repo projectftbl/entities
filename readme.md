@@ -1,3 +1,3 @@
-### @ftbl/io
+### @ftbl/entities
 
-React websockets tools.
+React entity helpers.
