@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/entities",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Entity helpers for React.js",
   "main": "dist/index",
   "scripts": {
