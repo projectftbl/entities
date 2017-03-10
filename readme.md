@@ -1,3 +1,3 @@
-### @ftbl/entities
+### @recipher/entities
 
 React entity helpers.
